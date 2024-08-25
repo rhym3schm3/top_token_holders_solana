@@ -1,0 +1,1 @@
+This script provides simple utility to analyze the top largest holders of a given Solana Token Contract Address and see their Solana, USDC, and USDT balance
